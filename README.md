@@ -1,2 +1,4 @@
 # Computational-Biology-DNA-sequencing
-Algorithm scripts
+Algorithm scripts:
+
+1) Population fitness
